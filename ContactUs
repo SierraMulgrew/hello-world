@@ -1,19 +1,33 @@
 <!DOCTYPE html>
-<html lang="en"
-  <head>
+<html lang="en">
+<title>Web Page Design</title>
+
+<head>
     <link rel="stylesheet" href="">
     <title>Contact Us</title>
     <meta charset="utf-8">
-  <head>
-  <header>
+</head>
+
+<header>
     <div>
-      <h1>
-        Contact Us
-      </h1>
+        <h1>
+            Contact Us
+        </h1>
     </div>
-  </header>
-  <body>
-    <nav id="" class="">
-    
-    </nav>
-         <main>
+</header>
+
+<body>
+    <p>
+        Visit us at:<br>
+        Mozilla Foundation<br>
+        331 E Evelyn Ave<br>
+        Mountain View, CA 94041<br>
+        USA<br>
+        Email us at:<br>
+        <a href="http://www.somedomain.com/contact">
+        www.somedomain.com</a>.<br>
+        Call us at:<br>
+        (570)222-2222
+    </p>
+</body>
+</html>
